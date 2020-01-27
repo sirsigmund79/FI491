@@ -13,6 +13,16 @@ This is the code repository for Group 7 in MSU's new Financial Data Analytics co
 
 All solved homeworks will be uploaded here, as well as the occasional concept tutorial
 
-### How to contribute
+### How to contribute (easy)
 
-1. 
+1. On the main page, just click "Upload File"
+2. Upload your code, and make sure it has your name in the file name (i.e. 'HW01_Parker.py')
+
+### How to contribute (harder)
+
+1. Click open a file
+2. Click 'Fork'
+3. Make a new branch (not 'Master')
+4. Push your code to that branch
+
+##### If you don't have edit permission, email me and I'll add you as a contributor
